@@ -1,0 +1,12 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P690_GuiCsharp__\Grayscale.P690_GuiCsharp__.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P690_GuiCsharp__\Grayscale.P690_GuiCsharp__.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P690_GuiCsharp__\Grayscale.P690_GuiCsharp__.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\P690_GuiCsharp__.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P699_Form_______.Form2_Console.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P699_Form_______.Uc_Form2Main.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P699_Form_______.Form1_Shogi.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.Properties.Resources.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P699_Form_______.Uc_Form1Main.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\P690_GuiCsharp__.csproj.GenerateResource.Cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P690_GuiCsharp__.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P690_GuiCsharp__\obj\Release\Grayscale.P690_GuiCsharp__.pdb

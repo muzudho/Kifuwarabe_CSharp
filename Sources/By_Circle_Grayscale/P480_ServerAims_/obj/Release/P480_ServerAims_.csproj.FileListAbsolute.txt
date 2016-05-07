@@ -1,0 +1,6 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P480_ServerAims_\Grayscale.P480_ServerAims_.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P480_ServerAims_\Grayscale.P480_ServerAims_.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P480_ServerAims_\Grayscale.P480_ServerAims_.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\Release\P480_ServerAims_.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\Release\Grayscale.P480_ServerAims_.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\Release\Grayscale.P480_ServerAims_.pdb

@@ -1,0 +1,10 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P160_KifuCsa____\Grayscale.P160_KifuCsa____.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P160_KifuCsa____\Grayscale.P160_KifuCsa____.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P160_KifuCsa____\Grayscale.P160_KifuCsa____.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\P160_KifuCsa____.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\Grayscale.P169_Form_______.Form1.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\Grayscale.Properties.Resources.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\Grayscale.P169_Form_______.Uc_Main.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\P160_KifuCsa____.csproj.GenerateResource.Cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\Grayscale.P160_KifuCsa____.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P160_KifuCsa____\obj\Debug\Grayscale.P160_KifuCsa____.pdb

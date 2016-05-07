@@ -1,0 +1,8 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P150_LogKyokuPng\Grayscale.P150_LogKyokuPng.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P150_LogKyokuPng\Grayscale.P150_LogKyokuPng.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P150_LogKyokuPng\Grayscale.P150_LogKyokuPng.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P150_LogKyokuPng\obj\Debug\P150_LogKyokuPng.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P150_LogKyokuPng\obj\Debug\Grayscale.Properties.Resources.resources
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P150_LogKyokuPng\obj\Debug\P150_LogKyokuPng.csproj.GenerateResource.Cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P150_LogKyokuPng\obj\Debug\Grayscale.P150_LogKyokuPng.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P150_LogKyokuPng\obj\Debug\Grayscale.P150_LogKyokuPng.pdb

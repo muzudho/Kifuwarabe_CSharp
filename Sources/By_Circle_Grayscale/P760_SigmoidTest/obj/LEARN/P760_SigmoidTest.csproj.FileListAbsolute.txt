@@ -1,0 +1,15 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\P760_SigmoidTest.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\Grayscale.P760_SigmoidTest.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\Grayscale.P760_SigmoidTest.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P760_SigmoidTest\Grayscale.P760_SigmoidTest.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\P760_SigmoidTest.csprojResolveAssemblyReference.cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\Grayscale.P760_SigmoidTest.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\LEARN\Grayscale.P760_SigmoidTest.pdb

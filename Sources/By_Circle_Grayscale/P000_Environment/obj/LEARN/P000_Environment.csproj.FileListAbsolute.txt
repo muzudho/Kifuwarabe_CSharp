@@ -1,0 +1,12 @@
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P000_Environment\Grayscale.P000_Environment.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P000_Environment\Grayscale.P000_Environment.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P000_Environment\Grayscale.P000_Environment.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P000_Environment\Grayscale.P000_Environment.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P000_Environment\Grayscale.P000_Environment.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P000_Environment\Grayscale.P000_Environment.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\P000_Environment.csprojResolveAssemblyReference.cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\Grayscale.P070_Form_______.Form1.resources
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\Grayscale.Properties.Resources.resources
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\P000_Environment.csproj.GenerateResource.Cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\Grayscale.P000_Environment.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P000_Environment\obj\LEARN\Grayscale.P000_Environment.pdb

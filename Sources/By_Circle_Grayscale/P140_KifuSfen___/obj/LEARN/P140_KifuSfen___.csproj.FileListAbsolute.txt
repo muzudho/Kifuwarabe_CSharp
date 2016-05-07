@@ -1,0 +1,11 @@
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P140_KifuSfen___\Grayscale.P140_KifuSfen___.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P140_KifuSfen___\Grayscale.P140_KifuSfen___.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P140_KifuSfen___\Grayscale.P140_KifuSfen___.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P140_KifuSfen___\Grayscale.P140_KifuSfen___.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P140_KifuSfen___\Grayscale.P140_KifuSfen___.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P140_KifuSfen___\Grayscale.P140_KifuSfen___.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P140_KifuSfen___\obj\LEARN\P140_KifuSfen___.csprojResolveAssemblyReference.cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P140_KifuSfen___\obj\LEARN\Grayscale.Properties.Resources.resources
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P140_KifuSfen___\obj\LEARN\P140_KifuSfen___.csproj.GenerateResource.Cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P140_KifuSfen___\obj\LEARN\Grayscale.P140_KifuSfen___.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P140_KifuSfen___\obj\LEARN\Grayscale.P140_KifuSfen___.pdb

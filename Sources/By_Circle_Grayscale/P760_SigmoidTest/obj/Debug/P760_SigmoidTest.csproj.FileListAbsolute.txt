@@ -1,0 +1,6 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P760_SigmoidTest\Grayscale.P760_SigmoidTest.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\Debug\P760_SigmoidTest.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\Debug\Grayscale.P760_SigmoidTest.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P760_SigmoidTest\obj\Debug\Grayscale.P760_SigmoidTest.pdb

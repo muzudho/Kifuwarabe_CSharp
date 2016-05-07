@@ -1,0 +1,15 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\P480_ServerAims_.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\Grayscale.P480_ServerAims_.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\Grayscale.P480_ServerAims_.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P480_ServerAims_.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P460_Server_____\Grayscale.P480_ServerAims_.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P460_Server_____\Grayscale.P480_ServerAims_.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P460_Server_____\Grayscale.P480_ServerAims_.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\P480_ServerAims_.csprojResolveAssemblyReference.cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\Grayscale.P480_ServerAims_.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P480_ServerAims_\obj\LEARN\Grayscale.P480_ServerAims_.pdb

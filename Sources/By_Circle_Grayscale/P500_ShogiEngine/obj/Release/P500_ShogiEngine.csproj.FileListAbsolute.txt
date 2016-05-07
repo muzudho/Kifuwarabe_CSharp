@@ -1,0 +1,6 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\Release\P500_ShogiEngine.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\Release\Grayscale.P500_ShogiEngine.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\Release\Grayscale.P500_ShogiEngine.pdb

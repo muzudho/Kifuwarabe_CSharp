@@ -1,0 +1,15 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\P500_ShogiEngine.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\Grayscale.P500_ShogiEngine.exe
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\Grayscale.P500_ShogiEngine.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Builds\Engine\Bin\P500_ShogiEngine\Grayscale.P500_ShogiEngine.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe.config
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P500_ShogiEngine\Grayscale.P500_ShogiEngine.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Engine01_Binaries\P500_ShogiEngine\Grayscale.P500_ShogiEngine.pdb
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\P500_ShogiEngine.csprojResolveAssemblyReference.cache
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\Grayscale.P500_ShogiEngine.exe
+E:\Muzudho\Shogi\Kifuwarabe_CSharp\CSharp\Sources\By_Circle_Grayscale\P500_ShogiEngine\obj\LEARN\Grayscale.P500_ShogiEngine.pdb

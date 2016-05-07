@@ -1,0 +1,6 @@
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P460_Server_____.dll.config
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P460_Server_____.dll
+C:\Root_KifuWarabe\CSharp\Builds\Engine\Bin\P460_Server_____\Grayscale.P460_Server_____.pdb
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P460_Server_____\obj\Release\P460_Server_____.csprojResolveAssemblyReference.cache
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P460_Server_____\obj\Release\Grayscale.P460_Server_____.dll
+C:\Root_KifuWarabe\CSharp\Sources\By_Circle_Grayscale\P460_Server_____\obj\Release\Grayscale.P460_Server_____.pdb
